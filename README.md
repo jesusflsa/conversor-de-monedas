@@ -24,8 +24,19 @@ En esta fase se inicia con el proyecto.
 - [x] Mostrar la lista de montos convertidos.
 
 
-## Problemas encontrados:
+### Problemas encontrados:
 - El programa no convierte la cantidad indicada a todas las monedas.
 - La experiencia no es lo suficientemente agradable.
 - El usuario no puede terminar el proceso cuando quiere.
 - El programa no acompaña al usuario.
+
+## Fase 2:
+### Soluciones:
+- [x] Multiplicar el valor traído por el valor de cambio.
+- [X] Agregar al inicio la opción de revisar la lista de monedas. Y manejarse únicamente por el código de moneda.
+- [ ] Agregar opciones de "Cancelar" o "Terminar proceso".
+- [X] Agregar mensajes de confirmación para el usuario.
+
+### Cosas por implementar:
+- [ ] Refactorizar el código (eliminar código repetido, agregar excepciones).
+- [ ] Agregar historial de conversiones (Monedas convertidas, montos convertidos, fecha y hora).
