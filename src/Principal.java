@@ -94,6 +94,7 @@ public class Principal {
                     }
 
                     if (codigo == 2) {
+                        System.out.println("Gracias por usar nuestro conversor de monedas.");
                         break;
                     }
                 }
